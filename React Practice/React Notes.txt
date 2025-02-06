@@ -1,0 +1,37 @@
+React Notes
+Commands
+npm init : to create package.json
+npm install --save-dev parcel : to create package-lock.json
+
+
+npm init -y
+npm init
+npm install --save-dev parcel 
+npm install react
+npm install react-dom/client
+npx parcel index.html
+npx parcel build index.html
+npx parcel index.html --https
+
+
+//Hot Module Replacement
+// File Watcher algorithm in C++.
+// Bundling
+// Minifies
+// Clean our code(Remove console.logs)
+// Manages dev and production Build
+// Image optimization
+// Caching while development
+// compress
+// Compatibility with old browsers
+// HTTPS on development
+// Manages port number
+// Consistent hashing algorithm
+// Zero config tool
+
+
+
+"browserslist": [
+    "defaults and fully supports es6-module",
+    "maintained node versions"
+  ]
